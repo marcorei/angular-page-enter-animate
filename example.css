@@ -1,0 +1,34 @@
+.contain {
+
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 200px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.box {
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+	opacity: 0;
+
+	height: 200px;
+	width: 100%;
+
+	background-color: #ccc;
+	box-shadow: 0 0 5px 0 #ccc;
+
+}
+
+.box.entered {
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	opacity: 1;
+
+	transition: all 1000ms;
+
+}
