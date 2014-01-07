@@ -96,7 +96,7 @@
 						// Delay just in case add it instantely would kill the animation
 
 						$timeout(function(){
-							elm.addClass(enterClass);
+							elm.addClass(enterClass+'-active');
 						},0);
 						
 
@@ -104,6 +104,7 @@
 
 				}
 
+				elm.addClass(enterClass);
 
 				angular.element(window).bind('scroll', onChangeHandler);
 				angular.element(window).bind('resize', onChangeHandler);
