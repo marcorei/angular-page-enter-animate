@@ -1,0 +1,25 @@
+{
+  "name": "angular-page-enter-animate",
+  "version": "0.0.0",
+  "description": "use css animations to animate elements in as soon as they enter the viewport, e.g. after a scroll or a resize event.",
+  "main": "/src/angular-page-enter-animate.js",
+  "keywords": [
+    "angular",
+    "animate",
+    "scroll",
+    "viewport",
+    "enter"
+  ],
+  "authors": [
+    "Markus Riegel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example.*"
+  ]
+}
