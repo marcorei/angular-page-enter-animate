@@ -1,11 +1,11 @@
-## angular-page-enter-animate
+# angular-page-enter-animate
 
 angular-page-enter-animate is an angular directive that allows you to animate objects in as soosn as they enter they vieport / enter the visible part of the page.
 
 It's inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 
 
-## How could i use this?
+## How to use
 
 Take a look a the example files at https://github.com/marcorei/angular-page-enter-animate
 
