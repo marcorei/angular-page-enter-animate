@@ -10,9 +10,11 @@ It's inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 Take a look a the example files at https://github.com/marcorei/angular-page-enter-animate
 
 Register this module with your app and include the directive
+```html
 <pre>
 <div mr-page-enter="entered" class="box">&nbsp;</div>
 </pre>
+```
 Then you need to define the css classes for the start and the end point of the animation
 <pre>
 /* Animation start point */
