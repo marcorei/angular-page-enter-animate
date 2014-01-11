@@ -1,8 +1,8 @@
 # angular-page-enter-animate
 
-angular-page-enter-animate is an angular directive that allows you to animate elements as soon as they enter they viewport.
+angular-page-enter-animate is an angularJS directive that allows you to animate elements as soon as they enter they viewport.
 
-It's inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
+Inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 
 
 ## How to use
