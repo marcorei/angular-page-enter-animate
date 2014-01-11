@@ -4,6 +4,8 @@ angular-page-enter-animate is an angularJS directive that allows you to animate 
 
 Inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 
+**Demo:** http://marcorei.github.io/example/angular-page-enter-animate/example.html
+
 
 ## How to use
 
