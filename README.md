@@ -1,6 +1,6 @@
 # angular-page-enter-animate
 
-angular-page-enter-animate is an angular directive that allows you to animate objects in as soosn as they enter they vieport / enter the visible part of the page.
+angular-page-enter-animate is an angular directive that allows you to animate elements as soon as they enter they viewport.
 
 It's inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 
@@ -9,13 +9,13 @@ It's inspired by http://ejohn.org/blog/getboundingclientrect-is-awesome/
 
 Take a look a the example files at https://github.com/marcorei/angular-page-enter-animate
 
-Register this module with your app and include the directive
+Register mrPageEnterAnimate with your app and include the directive
 ```html
 <pre>
 <div mr-page-enter="entered" class="box">&nbsp;</div>
 </pre>
 ```
-Then you need to define the css classes for the start and the end point of the animation
+Define the css classes for the start and the end point of the animation
 <pre>
 /* Animation start point */
 .box.entered { opacity: 0; } 
